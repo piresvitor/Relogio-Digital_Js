@@ -1,6 +1,6 @@
 # Relógio Digital
 
-![Relógio Digital](./images/relogio.png)
+![Relógio Digital](./relogio.png)
 
 Projeto simples que exibe um relógio digital em tempo real utilizando HTML, CSS e JavaScript.
 
